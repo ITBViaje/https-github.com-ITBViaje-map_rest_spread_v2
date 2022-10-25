@@ -1,1 +1,2 @@
-# https-github.com-ITBViaje-map_rest_spread_v2
+# map_rest_spread
+Código y sintaxis 
